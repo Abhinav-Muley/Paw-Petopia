@@ -29,5 +29,3 @@ PetHub is a full-stack web application built to facilitate the buying, selling, 
 - **Maven/Gradle:** Dependency management for the Java Spring Boot application.
 - **Axios:** For making API requests from the frontend.
 
-## Project Structure
-
