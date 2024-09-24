@@ -1,4 +1,4 @@
-# PetHub - Online Pet Selling and Adoption Platform
+# PawPetopia - Online Pet Selling and Adoption Platform
 
 ## Overview
 PetHub is a full-stack web application built to facilitate the buying, selling, and adoption of pets. Users can browse available pets, post pets for sale or adoption, and engage in real-time chat with potential buyers or adopters. The application is developed using **Java Spring Boot** for the backend, **ReactJS** for the frontend, **Tailwind CSS** for styling, and **Socket.IO** for real-time chat functionality.
@@ -28,7 +28,6 @@ PetHub is a full-stack web application built to facilitate the buying, selling, 
 ### Other Tools:
 - **Maven/Gradle:** Dependency management for the Java Spring Boot application.
 - **Axios:** For making API requests from the frontend.
-- **Docker (optional):** Containerize the application for easier deployment.
 
 ## Project Structure
 
